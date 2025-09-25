@@ -1,2 +1,3 @@
 # urn-resolver
-URN Resolver Service (urn.sdmx.io)
+
+[URN Resolver Service](https://urn.sdmx.io)
